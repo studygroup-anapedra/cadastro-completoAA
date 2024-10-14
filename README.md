@@ -21,7 +21,7 @@ Construir do zero uma API REST com Spring Boot para cadastro e gerenciamento de 
 
 <h2>Sobre o sistema a ser desenvolvido:</h2>
   <p >
-O projeto monolito será desenvolvido em grupo, e se trata de um sistema simples de cadastro de pessoas à caráter de estudo.
+O projeto monolito será desenvolvido em grupo e trata-se de um sistema simples de cadastro de pessoas, com caráter de estudo.
  </p>
 
 
