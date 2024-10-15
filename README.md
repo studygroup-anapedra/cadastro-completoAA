@@ -15,7 +15,7 @@ Construir do zero uma API REST com Spring Boot para cadastro e gerenciamento de 
 
 <p >🚀 3-Spring Data</p>
 
-<p >🚀 5-Spring Test.</p>
+<p >🚀 5-Spring Test</p>
 
 <p >🚀 2-Postman</p>
 
